@@ -1,3 +1,5 @@
+kevin
+
 <script>
 	import { currentUser } from '$lib/pocketbase';
 </script>
