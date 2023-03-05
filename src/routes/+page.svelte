@@ -21,10 +21,11 @@ kevin
 						<label class="label">
 							<span class="label-text">Caption</span>
 						</label>
+
 						<textarea class="textarea-bordered textarea h-24" bind:value={caption} />
-						<input type="file" class="file-input-bordered file-input w-full max-w-xs" />
-						<button class="btn-primary btn-block btn">Create post</button>
 					</div>
+					<input type="file" class="file-input-bordered file-input w-full max-w-xs" />
+					<button class="btn-primary btn-block btn">Create post</button>
 				</div>
 			</label>
 		</label>
